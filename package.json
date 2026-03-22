@@ -1,0 +1,13 @@
+{"name": "ship-one-mini-app",
+ "version": "1.0.0",
+ "dependencies": {
+   "minikit": "latest",
+   "base-accounts": "latest",
+   "paymaster": "latest",
+   "next": "latest",
+   "react": "latest",
+   "react-dom": "latest",
+   "wagmi": "latest",
+   "onchainkit": "latest"
+ }
+}
